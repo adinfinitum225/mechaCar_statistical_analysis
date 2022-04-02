@@ -1,1 +1,3 @@
-# mechaCar_statistical_analysis
+# MechaCar Statistical Analysis
+
+## Linear Regression to Predict MPG
